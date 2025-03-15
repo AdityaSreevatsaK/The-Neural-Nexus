@@ -1,4 +1,4 @@
-# The_Neural_Nexus
+# The Neural Nexus
 ### Explore. Build. Master Neural Networks.
 
 The Neural Nexus is a repository for exploring and showcasing neural network architectures. From foundational models 
@@ -17,14 +17,16 @@ a central hub for all things neural—your gateway to mastering deep learning an
 ✦ [Boston House Prices](b.%20Jupyter%20Notebooks/Boston%20House%20Prices%20-%20Regression.ipynb)<br />
 
 #### 1.2.1.2 Classification
-✦ [Loan Approval Classification](b.%20Jupyter%20Notebooks/Loan Approval Classification.ipynb)<br/>
+✦ [Loan Approval Classification](b.%20Jupyter%20Notebooks/Loan%20Approval%20Classification.ipynb)<br/>
 
 ### 1.2.2 Working with Images
 ✦ [Flower Classification - Multi Layer Perceptron](b.%20Jupyter%20Notebooks/Image%20Classification%20-%20Flowers%20Dataset%20-%20Multi%20Layer%20Percepton.ipynb)<br/>
 
 # 2. Convolutional Neural Networks (CNNs)
 ## 2.1 Introduction to CNNs
+✦ 
 
 ## 2.2 Advanced CNN Architectures
+✦ 
 
-## 2.3 
+
