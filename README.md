@@ -21,10 +21,4 @@ a central hub for all things neural—your gateway to mastering deep learning an
 
 ### 1.2.2 Working with Images
 ✦ [Flower Classification - Multi Layer Perceptron](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Flowers%20Dataset%20-%20Multi%20Layer%20Percepton.ipynb)<br/>
-
-# 2. Convolutional Neural Networks (CNNs)
-## 2.1 Introduction to CNNs
-✦ 
-
-## 2.2 Advanced CNN Architectures
-✦ 
+✦ [MNIST Dataset - Image Classification- Multi Layer Perceptron](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20MNIST%20Dataset%20-%20Multi%20Layer%20Perceptron.ipynb) <br />
