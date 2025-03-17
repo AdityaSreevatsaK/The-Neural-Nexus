@@ -5,6 +5,11 @@ The Neural Nexus is a repository for exploring and showcasing neural network arc
 like feedforward and convolutional networks to advanced techniques like transformers and generative models, it serves as 
 a central hub for all things neural—your gateway to mastering deep learning and cutting-edge designs.
 
+#### Note
+Deep learning models typically require many epochs for meaningful results, but without a GPU or cloud resources, 
+training is time-consuming. To focus on showcasing architectures and experimentation, most models here are trained for 
+around five epochs, prioritising exploration over accuracy.
+
 # 1. Foundational Neural Networks
 ## 1.1. Basics of Neural Networks
 ✦ [Basics of Tensorflow]() <br/>
@@ -22,3 +27,10 @@ a central hub for all things neural—your gateway to mastering deep learning an
 ### 1.2.2 Working with Images
 ✦ [Flower Classification - Multi Layer Perceptron](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Flowers%20Dataset%20-%20Multi%20Layer%20Percepton.ipynb)<br/>
 ✦ [MNIST Dataset - Image Classification- Multi Layer Perceptron](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20MNIST%20Dataset%20-%20Multi%20Layer%20Perceptron.ipynb) <br />
+
+## 2. Convolutional Neural Networks (CNNs)  
+### 2.1 Basics of CNNs
+✦ [Image Classification - Garbage Dataset](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Garbage%20Dataset%20-%20CNN.ipynb)<br />
+
+### 2.2 Advanced CNN Architectures 
+
