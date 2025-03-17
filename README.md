@@ -1,5 +1,5 @@
 # <p align="center">The Neural Nexus</p>
-### Explore. Build. Master Neural Networks.
+## <i>Explore. Build. Master Neural Networks.</i>
 
 The Neural Nexus is a repository for exploring and showcasing neural network architectures. From foundational models 
 like feedforward and convolutional networks to advanced techniques like transformers and generative models, it serves as 
@@ -33,4 +33,3 @@ around five epochs, prioritising exploration over accuracy.
 ✦ [Image Classification - Garbage Dataset](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Garbage%20Dataset%20-%20CNN.ipynb)<br />
 
 ### 2.2 Advanced CNN Architectures 
-
