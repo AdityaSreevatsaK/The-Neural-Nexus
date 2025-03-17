@@ -1,4 +1,4 @@
-# The Neural Nexus
+# <p align="center">The Neural Nexus</p>
 ### Explore. Build. Master Neural Networks.
 
 The Neural Nexus is a repository for exploring and showcasing neural network architectures. From foundational models 
