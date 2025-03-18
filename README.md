@@ -25,11 +25,11 @@ around five epochs, prioritising exploration over accuracy.
 ✦ [Loan Approval Classification](a.%20Jupyter%20Notebooks/Loan%20Approval%20Classification.ipynb)<br/>
 
 ### 1.2.2 Working with Images
-✦ [Flower Classification - Multi Layer Perceptron](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Flowers%20Dataset%20-%20Multi%20Layer%20Percepton.ipynb)<br/>
+✦ [Flower Dataset - Image Classification - Multi Layer Perceptron](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Flowers%20Dataset%20-%20Multi%20Layer%20Percepton.ipynb)<br/>
 ✦ [MNIST Dataset - Image Classification- Multi Layer Perceptron](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20MNIST%20Dataset%20-%20Multi%20Layer%20Perceptron.ipynb) <br />
 
 ## 2. Convolutional Neural Networks (CNNs)  
 ### 2.1 Basics of CNNs
-✦ [Image Classification - Garbage Dataset](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Garbage%20Dataset%20-%20CNN.ipynb)<br />
+✦ [Garbage Dataset - Image Classification](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Garbage%20Dataset%20-%20CNN.ipynb)<br />
 
 ### 2.2 Advanced CNN Architectures 
