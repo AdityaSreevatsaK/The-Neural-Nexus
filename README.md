@@ -8,7 +8,7 @@ a central hub for all things neural—your gateway to mastering deep learning an
 #### Note
 Deep learning models typically require many epochs for meaningful results, but without a GPU or cloud resources, 
 training is time-consuming. To focus on showcasing architectures and experimentation, most models here are trained for 
-around five epochs, prioritising exploration over accuracy.
+very few epochs, prioritising exploration over accuracy.
 
 # 1. Foundational Neural Networks
 ## 1.1. Basics of Neural Networks
@@ -33,3 +33,6 @@ around five epochs, prioritising exploration over accuracy.
 ✦ [Garbage Dataset - Image Classification](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Garbage%20Dataset%20-%20CNN.ipynb)<br />
 
 ### 2.2 Advanced CNN Architectures 
+#### 2.2.1 Hyperparameter Tuning
+
+#### 2.2.2 Transfer learning
