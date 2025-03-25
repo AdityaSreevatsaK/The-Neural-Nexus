@@ -38,3 +38,9 @@ very few epochs, prioritising exploration over accuracy.
 
 #### 2.2.2 Transfer learning
 ✦ [Garbage Dataset - Image Classification](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Garbage%20Dataset%20-%20Transfer%20Learning%20-%20MobileNet.ipynb)<br />
+
+## 3. Object Detection & Image Segmentation  
+### 3.1 Object Detection
+
+### 3.2 Image Segmentation  
+✦ [Glioma Dataset - Image Segmentation - ResNet34](a.%20Jupyter%20Notebooks/Image%20Segmentation%20-%20Glioma%20Dataset%20-%20ResNet34.ipynb)<br />
