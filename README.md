@@ -12,7 +12,7 @@ very few epochs, prioritising exploration over accuracy.
 
 ## 1. Foundational Neural Networks
 ### 1.1. Basics of Neural Networks
-✦ [Basics of Tensorflow]() <br/>
+✦ [Basics of Tensorflow](a.%20Jupyter%20Notebooks/Basics%20of%20Tensorflow.ipynb) <br/>
 ✦ [Basic Feedforward Neural Network Implementation](a.%20Jupyter%20Notebooks/Basic%20Feedforward%20Neural%20Network%20Implementation.ipynb)<br/>
 ✦ [Feedforward and Backpropagation - Updating Learning Rate](a.%20Jupyter%20Notebooks/Feedforward%20and%20Backpropagation%20-%20Updating%20Learning%20Rate.ipynb)<br/>
 
