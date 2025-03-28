@@ -35,6 +35,7 @@ very few epochs, prioritising exploration over accuracy.
 ### 2.2 Advanced CNN Architectures 
 #### 2.2.1 Hyperparameter Tuning
 ✦ [Garbage Dataset - Image Classification](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Garbage%20Dataset%20-%20CNN%20-%20Hyperparameter%20Tuning.ipynb)<br />
+✦ [Covid 19 Dataset - Image Classification](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Covid%2019%20Dataset%20-%20Hyperparameter%20Tuning.ipynb)<br />
 
 #### 2.2.2 Transfer learning
 ✦ [Garbage Dataset - Image Classification](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Garbage%20Dataset%20-%20Transfer%20Learning%20-%20MobileNet.ipynb)<br />
