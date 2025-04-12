@@ -20,9 +20,10 @@ very few epochs, prioritising exploration over accuracy.
 #### 1.2.1 Working with CSV Data (Tabular Data)
 ##### 1.2.1.1 Regression
 ✦ [Boston House Prices](a.%20Jupyter%20Notebooks/Boston%20House%20Prices%20-%20Regression.ipynb)<br />
+✦ [Life Expectancy](a.%20Jupyter%20Notebooks/Life%20Expectancy%20-%20Regression.ipynb)<br />
 
 ##### 1.2.1.2 Classification
-✦ [Loan Approval Classification](a.%20Jupyter%20Notebooks/Loan%20Approval%20Classification.ipynb)<br/>
+✦ [Loan Approval Classification](a.%20Jupyter%20Notebooks/Loan%20Approval%20-%20Classification.ipynb)<br/>
 
 #### 1.2.2 Working with Images
 ✦ [Flower Dataset - Image Classification - Multi Layer Perceptron](a.%20Jupyter%20Notebooks/Image%20Classification%20-%20Flowers%20Dataset%20-%20Multi%20Layer%20Percepton.ipynb)<br/>
