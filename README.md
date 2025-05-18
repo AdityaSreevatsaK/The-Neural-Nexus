@@ -46,3 +46,17 @@ very few epochs, prioritising exploration over accuracy.
 
 ### 3.2 Image Segmentation  
 ✦ [Glioma Dataset - Image Segmentation - ResNet34](a.%20Jupyter%20Notebooks/Image%20Segmentation%20-%20Glioma%20Dataset%20-%20ResNet34.ipynb)<br />
+
+## 4. Neural Networks for Sequential Data  
+### 4.1 Time-Series Forecasting with Neural Networks  
+### 4.2 RNNs, LSTMs, and GRUs  
+
+## 5. Generative & Unsupervised Models  
+### 5.1 Autoencoders (Basic & Variational)  
+### 5.2 Generative Adversarial Networks (GANs)  
+
+## 6. Transformer-Based Architectures  
+### 6.1 Vision Transformers (ViTs)  
+### 6.2 Transformers for Time-Series & Structured Data  
+### 6.3 Text-Based Transformers  
+✦ [Fine-Tuning BERT for Binary Classification Using PyTorch](a.%20Jupyter%20Notebooks/Fine-Tuning%20BERT%20for%20Sentiment%20Classification%20of%20Product%20Reviews%20Using%20PyTorch.ipynb) <br />  
