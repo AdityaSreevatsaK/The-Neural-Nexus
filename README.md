@@ -60,3 +60,4 @@ very few epochs, prioritising exploration over accuracy.
 ### 6.2 Transformers for Time-Series & Structured Data  
 ### 6.3 Text-Based Transformers  
 ✦ [Fine-Tuning BERT for Binary Classification Using PyTorch](a.%20Jupyter%20Notebooks/Fine-Tuning%20BERT%20for%20Sentiment%20Classification%20of%20Product%20Reviews%20Using%20PyTorch.ipynb) <br />  
+✦ [Fine-Tuning RoBERTa for Binary Sentiment Classification of Online Store Reviews](a.%20Jupyter%20Notebooks/Fine-Tuning%20BERT%20for%20Sentiment%20Classification%20of%20Product%20Reviews%20Using%20PyTorch.ipynb)<br />
